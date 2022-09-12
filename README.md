@@ -1,5 +1,11 @@
 # COVIDBrazilPublicAPI
-API Visualization COVID OVERVIEW BRAZIL
+COVID OVERVIEW BRAZIL
 
-Data API reference: https://documenter.getpostman.com/view/10808728/SzS8rjbc
-Chart API reference: https://quickchart.io/
+
+- Data API reference: https://documenter.getpostman.com/view/10808728/SzS8rjbc
+- Chart API reference: https://quickchart.io/
+
+<div align="center">
+  <img align="center" alt="Matt-pic" height="30" style="border-radius:50px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://hugovk.github.io/python-logos/img/Python%20Package%20Index.jpg">
+ 
+</div>
