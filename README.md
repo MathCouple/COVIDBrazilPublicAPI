@@ -1,6 +1,7 @@
 # COVIDBrazilPublicAPI
 COVID OVERVIEW BRAZIL data
 
+* The main point was to create a model to extract, basic treatment and load in a csv. Bonus: PNG graphic using API.
 
 - Data API reference: https://documenter.getpostman.com/view/10808728/SzS8rjbc
 - Chart API reference: https://quickchart.io/
