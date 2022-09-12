@@ -1,5 +1,5 @@
 # COVIDBrazilPublicAPI
-COVID OVERVIEW BRAZIL
+COVID OVERVIEW BRAZIL data
 
 
 - Data API reference: https://documenter.getpostman.com/view/10808728/SzS8rjbc
